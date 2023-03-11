@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frank-florian&show_icons=true&theme=dark&locale=en&layout=compact" alt="frank-florian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frank-florian&show_icons=true&theme=dracula&locale=en" alt="frank-florian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frank-florian&show_icons=true&theme=dark&locale=en" alt="frank-florian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frank-florian&theme=dark" alt="frank-florian" /></p>
